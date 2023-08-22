@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="./full.svg" alt="Typing SVG" /></a>
+<a href="#"><img src="./full.svg" alt="Typing SVG" /></a>
 </div>
 
 ## Prefered Technicals
