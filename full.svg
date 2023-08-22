@@ -21,7 +21,7 @@
                     dur='6000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h520 ; m0,25 h520 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Comic Sans MS", monospace' fill='#36BCF7' font-size='30'
+    <text font-family='"Comic Sans MS", monospace' fill='#F73C36' font-size='30'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -38,7 +38,7 @@
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            Over 8 years of Experience in Web.
+            Over 12 years of Experience in Web.
         </textPath>
     </text>
 </svg>
