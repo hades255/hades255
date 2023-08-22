@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img src="./full.svg" alt="Typing SVG" /></a>
+<a href="#"><img src="./full.svg" alt="I'm a fullstack developer" /></a>
 </div>
 
 ## Prefered Technicals
