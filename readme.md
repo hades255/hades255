@@ -29,13 +29,13 @@
   </p>
   <p align="center">
     <a href="https://leetcode.com/hades255/">
-      <img width="270" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
+      <img width="260" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
     </a>
     <a href="https://github.com/hades255">
-      <img width="239" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
+      <img width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
     </a>
     <a href="https://github.com/hades255">
-      <img width="322" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
+      <img width="310" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
     </a>
   </p>
 </details>
