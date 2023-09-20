@@ -56,8 +56,6 @@ live:.cid.a889e1fb12a8ca6f
 ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 
-- 📫 How to reach me: [email](mailto:semen.zhydenko@gmail.com), [linkedin](https://www.linkedin.com/in/zhydenko/)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hades255/count.svg" />
