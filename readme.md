@@ -56,13 +56,7 @@
 
   ## Star History
 
-  <a href="https://star-history.com/#hades255/skyNet-visualizer-next-react-node-js&hades255/hades255&hades255/hades-evn-portfolio&Timeline">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline" />
-    </picture>
-  </a>
+  [![Star History Chart](https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline)](https://star-history.com/#hades255/skyNet-visualizer-next-react-node-js&hades255/hades255&hades255/hades-evn-portfolio&Timeline)
 
 </details>
 
