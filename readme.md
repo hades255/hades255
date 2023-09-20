@@ -17,22 +17,15 @@
 
 ## Languages & Tools
 
-<div style="display:flex">
-  <div style="width:65%;">
-    <a href="https://skillicons.dev">
-      <img width="98%" src="https://skillicons.dev/icons?i=aiscript,androidstudio,angular,arduino,atom,autocad,aws,azure,babel,bash,bootstrap,c,cs,cpp,cloudflare,codepen,css,d3,devto,discord,bots,django,docker,dotnet,eclipse,electron,express,fastapi,figma,firebase,flutter,gamemakerstudio,gcp,git,github,githubactions,gitlab,go,graphql,gtk,haxe,haxeflixel,heroku,hibernate,html,idea,ai,instagram,java,js,jenkins,jest,jquery,kafka,kotlin,kubernetes,laravel,linkedin,linux,md,materialui,matlab,mongodb,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,ps,php,postgres,postman,powershell,py,qt,react,reactivex,redux,regex,rocket,rollupjs,rust,sass,sqlite,stackoverflow,styledcomponents,supabase,solidity,svelte,svg,tailwind,threejs,twitter,ts,unity,vercel,vim,visualstudio,vscode,vue,webflow,webpack,wordpress,workers" />
-    </a>
-  </div>
-  <div style="width:35%;">
-    <a href="https://leetcode.com/hades255/">
-      <img width="100%" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-    </a>
-    <br/>
-    <a href="https://github.com/hades255">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-    </a>
-  </div>
-</div>
+<p>
+  <a href="https://skillicons.dev">
+    <img width="65%" src="https://skillicons.dev/icons?i=aiscript,androidstudio,angular,arduino,atom,autocad,aws,azure,babel,bash,bootstrap,c,cs,cpp,cloudflare,codepen,css,d3,devto,discord,bots,django,docker,dotnet,eclipse,electron,express,fastapi,figma,firebase,flutter,gamemakerstudio,gcp,git,github,githubactions,gitlab,go,graphql,gtk,haxe,haxeflixel,heroku,hibernate,html,idea,ai,instagram,java,js,jenkins,jest,jquery,kafka,kotlin,kubernetes,laravel,linkedin,linux,md,materialui,matlab,mongodb,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,ps,php,postgres,postman,powershell,py,qt,react,reactivex,redux,regex,rocket,rollupjs,rust,sass,sqlite,stackoverflow,styledcomponents,supabase,solidity,svelte,svg,tailwind,threejs,twitter,ts,unity,vercel,vim,visualstudio,vscode,vue,webflow,webpack,wordpress,workers" />
+  </a>
+  <a href="https://leetcode.com/hades255/">
+    <img width="30%" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
+  </a>
+</p>
 
 ---
 
