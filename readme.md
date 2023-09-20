@@ -6,18 +6,16 @@
   <a href="#" target="_blank"><img src="./full.svg" alt="I'm a fullstack developer" width="50%" /></a>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
   <p align="center"> 
-  
-  <a href="https://github.com/hades255">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green">
-  </a>
-  <br/>
-  <a href="https://github.com/hades255?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hades255?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/hades255?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hades255?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-
+    <a href="https://github.com/hades255">
+      <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green">
+    </a>
+    <br/>
+    <a href="https://github.com/hades255?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hades255?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+    <a href="https://github.com/hades255?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hades255?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
   </p>
 </div>
 
@@ -27,10 +25,9 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-
 <details>
   <summary>
-    <h2> Languages & Tools </h2>
+    <h2> Languages & Features </h2>
   </summary>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -51,9 +48,22 @@
   
   ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 
+  ## Contributions
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="hades255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hades255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
+
+  ## Star History
+
+  <a href="https://star-history.com/#hades255/skyNet-visualizer-next-react-node-js&hades255/hades255&hades255/hades-evn-portfolio&Timeline">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline" />
+    </picture>
+  </a>
+
 </details>
 
 <details> 
