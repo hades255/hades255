@@ -1,4 +1,4 @@
-<div class="background-image">
+<div style="background-image: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif'); background-size: cover; background-position: center; width: 100%;">
   <p align="center">
     <h1 align="center">✩&emsp;hades&emsp;✩</h1>
   </p>
@@ -64,12 +64,3 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hades255)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-<style>
-  .background-image {
-    background-image: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif');
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-  }
-</style>
