@@ -38,8 +38,16 @@
       <img width="310" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
     </a>
   </p>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
+
 </details>
 
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@hades255"><img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board"></a></p>
+</details>
 
 ---
 
@@ -59,11 +67,10 @@ t.hades255
 live:.cid.a889e1fb12a8ca6f
 ```
 
-<br>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green">
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
-
-
+<p align="center">
+  -✩- My Projects -✩-
+</p>
