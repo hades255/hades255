@@ -7,9 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
   <p align="center"> 
     <a href="https://github.com/hades255">
-      <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green">
+      <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green&style=for-the-badge">
     </a>
-    <br/>
+  </p>
+  <p align="center">
     <a href="https://github.com/hades255?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hades255?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
@@ -54,9 +55,9 @@
     <img alt="hades255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hades255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 
-  ## Star History
+  <!-- ## Star History
 
-  [![Star History Chart](https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline)](https://star-history.com/#hades255/skyNet-visualizer-next-react-node-js&hades255/hades255&hades255/hades-evn-portfolio&Timeline)
+  [![Star History Chart](https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline)](https://star-history.com/#hades255/skyNet-visualizer-next-react-node-js&hades255/hades255&hades255/hades-evn-portfolio&Timeline) -->
 
 </details>
 
@@ -65,6 +66,8 @@
 
   <p><a href="https://holopin.io/@hades255"><img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board"></a></p>
 </details>
+
+<!--START_SECTION:activity-->
 
 ---
 
