@@ -29,7 +29,7 @@
   </p>
   <p align="center">
     <a href="https://leetcode.com/hades255/">
-      <img width="271" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+      <img width="270" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
     </a>
     <a href="https://github.com/hades255">
       <img width="239" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
