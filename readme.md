@@ -32,7 +32,10 @@
       <img width="278" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
     </a>
     <a href="https://github.com/hades255">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
+      <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
+    </a>
+    <a href="https://github.com/hades255">
+      <img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
     </a>
   </p>
 </details>
@@ -62,7 +65,5 @@ live:.cid.a889e1fb12a8ca6f
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&rank_icon=true&show=[review])
 
-- 📫 How to reach me: [email](mailto:semen.zhydenko@gmail.com), [linkedin](https://www.linkedin.com/in/zhydenko/)
 
