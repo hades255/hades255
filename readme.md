@@ -72,19 +72,19 @@
 ---
 
 ```
-montgasam@gmail.com
+> montgasam@gmail.com
 ```
 
 ```
-hades.255@outlook.com
+> hades.255@outlook.com
 ```
 
 ```
-t.hades255
+> t.hades_255
 ```
 
 ```
-live:.cid.a889e1fb12a8ca6f
+> live:.cid.a889e1fb12a8ca6f
 ```
 
 <p align="center">
