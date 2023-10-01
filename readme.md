@@ -62,7 +62,7 @@
 <details> 
   <summary><h2>Other Badges</h2></summary>
   
-  ![Daniel's Codewars stats -- 3,033 honor, 2 kyu](https://www.codewars.com/users/dkalla/badges/large)
+  ![Daniel's Codewars stats -- 3,033 honor, 2 kyu](https://www.codewars.com/users/hades255/badges/large)
 
   <p><a href="https://holopin.io/@hades255"><img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board"></a></p>
 </details>
