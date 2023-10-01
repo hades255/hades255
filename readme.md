@@ -49,8 +49,6 @@
   
   ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 
-  ## Contributions
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="hades255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hades255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
@@ -62,7 +60,9 @@
 </details>
 
 <details> 
-  <summary><h2>Holopin Badges</h2></summary>
+  <summary><h2>Other Badges</h2></summary>
+  
+  ![Daniel's Codewars stats -- 3,033 honor, 2 kyu](https://www.codewars.com/users/dkalla/badges/large)
 
   <p><a href="https://holopin.io/@hades255"><img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board"></a></p>
 </details>
