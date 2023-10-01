@@ -44,7 +44,7 @@
     </a>
   </p>
 
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
       <img width="600" src="https://stats.quine.sh/hades255/topics-over-time?theme=dark" alt="hades255's GitHub | Topics Over Time">
     </a>
@@ -54,7 +54,7 @@
     <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
       <img width="600" src="https://stats.quine.sh/hades255/languages-over-time?theme=dark" alt="hades255's GitHub | Languages Over Time">
     </a>
-  </p> 
+  </p>  -->
 
   ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 
@@ -73,9 +73,11 @@
   
   ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
   
-  <a href="https://leetcode.com/hades255/">
-    <img width="400px" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
-  </a>
+  <p>
+    <a href="https://leetcode.com/hades255/">
+      <img width="400px" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
+    </a>
+  </p>
 
   <p>
     <a href="https://holopin.io/@hades255">
