@@ -58,8 +58,6 @@
 
   ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 
-  ## Contributions
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="hades255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hades255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
@@ -73,11 +71,19 @@
 <details> 
   <summary><h2>Badges from Others</h2></summary>
   
+  ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
+  
   <p align="center">
-    <a href="https://leetcode.com/hades255/">
-      <img width="400px" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
+      <img width="600" src="https://stats.quine.sh/hades255/topics-over-time?theme=dark" alt="hades255's GitHub | Topics Over Time">
     </a>
   </p>
+
+  <p align="center">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
+      <img width="600" src="https://stats.quine.sh/hades255/languages-over-time?theme=dark" alt="hades255's GitHub | Languages Over Time">
+    </a>
+  </p> 
 
   <p>
     <a href="https://holopin.io/@hades255">
