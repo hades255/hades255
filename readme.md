@@ -32,21 +32,30 @@
   </summary>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="90%" src="https://skillicons.dev/icons?i=ai,aiscript,aws,gcp,azure,dotnet,html,css,js,jquery,bootstrap,materialui,supabase,svg,tailwind,threejs,webflow,php,laravel,docker,kubernetes,java,py,django,fastapi,nodejs,angular,react,redux,vue,electron,express,nestjs,nextjs,nuxtjs,ts,styledcomponents,babel,webpack,rocket,rollupjs,go,rust,sass,wordpress,graphql,regex,mongodb,mysql,sqlite,postgres,unity,git,github,githubactions,gitlab,c,cpp,cs,qt,visualstudio,vscode,ps,postman,powershell,bash,idea,linux,md,codepen,devto,figma,firebase,discord,nginx,vercel,heroku,twitter,instagram,linkedin,stackoverflow,bots" />
+      <img width="90%" src="https://skillicons.dev/icons?i=ai,aws,gcp,azure,html,css,js,jquery,bootstrap,materialui,svg,tailwind,threejs,webflow,php,laravel,docker,kubernetes,java,py,django,fastapi,nodejs,angular,react,redux,vue,electron,express,nestjs,nextjs,nuxtjs,ts,styledcomponents,babel,webpack,rocket,rollupjs,go,rust,sass,wordpress,graphql,regex,mongodb,mysql,sqlite,postgres,unity,c,cpp,cs,qt,ps,postman,powershell,bash,linux,md" />
     </a>
   </p>
   <p align="center">
-    <a href="https://leetcode.com/hades255/">
-      <img width="260" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
+    <a href="https://github.com/hades255">
+      <img width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
     </a>
     <a href="https://github.com/hades255">
-      <img width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
-    </a>
-    <a href="https://github.com/hades255">
-      <img width="310" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
+      <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
     </a>
   </p>
-  
+
+  <p align="center">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
+      <img width="600" src="https://stats.quine.sh/hades255/topics-over-time?theme=dark" alt="hades255's GitHub | Topics Over Time">
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
+      <img width="600" src="https://stats.quine.sh/hades255/languages-over-time?theme=dark" alt="hades255's GitHub | Languages Over Time">
+    </a>
+  </p> 
+
   ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -60,11 +69,27 @@
 </details>
 
 <details> 
-  <summary><h2>Other Badges</h2></summary>
+  <summary><h2>Badges from Others</h2></summary>
   
-  ![Daniel's Codewars stats -- 3,033 honor, 2 kyu](https://www.codewars.com/users/hades255/badges/large)
+  ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
+  
+  <p align="center">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
+      <img width="600" src="https://stats.quine.sh/hades255/topics-over-time?theme=dark" alt="hades255's GitHub | Topics Over Time">
+    </a>
+  </p>
 
-  <p><a href="https://holopin.io/@hades255"><img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board"></a></p>
+  <p align="center">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
+      <img width="600" src="https://stats.quine.sh/hades255/languages-over-time?theme=dark" alt="hades255's GitHub | Languages Over Time">
+    </a>
+  </p> 
+
+  <p>
+    <a href="https://holopin.io/@hades255">
+      <img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board">
+    </a>
+  </p>
 </details>
 
 <!--START_SECTION:activity-->
