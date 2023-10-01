@@ -72,18 +72,6 @@
   <summary><h2>Badges from Others</h2></summary>
   
   ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
-  
-  <p align="center">
-    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
-      <img width="600" src="https://stats.quine.sh/hades255/topics-over-time?theme=dark" alt="hades255's GitHub | Topics Over Time">
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
-      <img width="600" src="https://stats.quine.sh/hades255/languages-over-time?theme=dark" alt="hades255's GitHub | Languages Over Time">
-    </a>
-  </p> 
 
   <p>
     <a href="https://holopin.io/@hades255">
@@ -92,25 +80,13 @@
   </p>
 </details>
 
-<!--START_SECTION:activity-->
+### Contact
 
----
-
-```
-> montgasam@gmail.com
-```
-
-```
-> hades.255@outlook.com
-```
-
-```
-> t.hades_255
-```
-
-```
-> live:.cid.a889e1fb12a8ca6f
-```
+<a href="tel:+19403603024" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">+1-940-360-3024</a>
+<a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">montgasam@gmail.com</a>
+<a href="mailto:hades.255@outlook.com" style="background-color: green; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">hades.255@outlook.com</a>
+<a href="https://t.me/hades255" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">@hades_255</a>
+<a href="skype:live:.cid.a889e1fb12a8ca6f?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">live:.cid.a889e1fb12a8ca6f</a>
 
 <p align="center">
   -✩- My Projects -✩-
