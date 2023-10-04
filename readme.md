@@ -89,10 +89,10 @@
 ### Contact
 
 <p>
-  <a href="tel:+19403603024" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">+1-940-360-3024</a>
+  <a href="tel:+19403603024" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>+1-940-360-3024</code></a>
   <a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">montgasam@gmail.com</a>
   <a href="mailto:hades.255@outlook.com" style="background-color: green; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">hades.255@outlook.com</a>
-  <a href="https://t.me/hades255" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">@hades_255</a>
+  <a href="https://t.me/hades_255" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">@hades_255</a>
   <a href="skype:live:.cid.a889e1fb12a8ca6f?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;">live:.cid.a889e1fb12a8ca6f</a>
 </p>
 
