@@ -21,5 +21,4 @@ jobs:
           git config user.email hades.255@outlook.com
           git add -A .
           git commit -m "generated"
-          ${{ secrets.GITHUB_TOKEN }}
           git push origin master
