@@ -26,6 +26,14 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+<p align="center" >
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="github profile contributions chart" src="./profile-3d-contrib/profile-gitblock.svg" />
+  </picture>
+</p>
+
 <details>
   <summary>
     <h2> Languages & Features </h2>
@@ -79,16 +87,16 @@
     </a>
   </p>
 
-  <p>
+  <!-- <p>
     <a href="https://holopin.io/@hades255">
       <img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board">
     </a>
-  </p>
+  </p> -->
 </details>
 
 ### Contact
 
-<p>
+<p align="center">
   <a href="tel:+19403603024" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>+1-940-360-3024</code></a>
   <a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>montgasam@gmail.com</code></a>
   <a href="mailto:hades.255@outlook.com" style="background-color: green; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>hades.255@outlook.com</code></a>
