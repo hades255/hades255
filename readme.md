@@ -5,11 +5,11 @@
   <h1 align="center">✩&emsp;hades&emsp;✩</h1>
   <a href="#" target="_blank"><img src="./full.svg" alt="I'm a fullstack developer" width="50%" /></a>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
-  <p align="center"> 
+  <!-- <p align="center"> 
     <a href="https://github.com/hades255">
       <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green&style=for-the-badge">
     </a>
-  </p>
+  </p> -->
   <p align="center">
     <a href="https://github.com/hades255?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hades255?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
@@ -20,12 +20,6 @@
   </p>
 </div>
 
-## Prefered Technics
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
 <p align="center" >
   <img alt="github profile contributions chart" src="./profile-3d-contrib/profile-gitblock.svg" />
   <!-- <picture>
@@ -33,6 +27,12 @@
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
     <img alt="github profile contributions chart" src="./profile-3d-contrib/profile-gitblock.svg" />
   </picture> -->
+</p>
+
+## Prefered Technics
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
 <details>
