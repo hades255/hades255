@@ -27,16 +27,17 @@
 </p>
 
 <p align="center" >
-  <picture>
+  <img alt="github profile contributions chart" src="./profile-3d-contrib/profile-night-green.svg" />
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
     <img alt="github profile contributions chart" src="./profile-3d-contrib/profile-gitblock.svg" />
-  </picture>
+  </picture> -->
 </p>
 
 <details>
   <summary>
-    <h2> Languages & Features </h2>
+    <h2> Details </h2>
   </summary>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -77,7 +78,7 @@
 </details>
 
 <details> 
-  <summary><h2>Badges from Others</h2></summary>
+  <summary><h2>Others</h2></summary>
   
   ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
   
