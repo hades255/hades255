@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUPER_SECRET }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
@@ -21,4 +21,4 @@ jobs:
           git config user.email hades.255@outlook.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push origin master
