@@ -77,7 +77,7 @@
 
 </details>
 
-<details> 
+<!-- <details> 
   <summary><h2>Others</h2></summary>
   
   ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
@@ -86,14 +86,14 @@
     <a href="https://leetcode.com/hades255/">
       <img width="400px" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
     </a>
-  </p>
+  </p> -->
 
   <!-- <p>
     <a href="https://holopin.io/@hades255">
       <img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board">
     </a>
   </p> -->
-</details>
+<!-- </details> -->
 
 ### Contact
 
