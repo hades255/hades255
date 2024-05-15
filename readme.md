@@ -41,7 +41,7 @@
   </summary>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="90%" src="https://skillicons.dev/icons?i=ai,aws,gcp,azure,html,css,js,jquery,bootstrap,materialui,svg,tailwind,threejs,webflow,php,laravel,docker,kubernetes,java,py,django,fastapi,nodejs,angular,react,redux,vue,electron,express,nestjs,nextjs,nuxtjs,ts,styledcomponents,babel,webpack,rocket,rollupjs,go,rust,sass,wordpress,graphql,regex,mongodb,mysql,sqlite,postgres,unity,c,cpp,cs,qt,ps,postman,powershell,bash,linux,md" />
+      <img width="90%" src="https://skillicons.dev/icons?i=ai,aws,gcp,azure,html,css,js,jquery,bootstrap,materialui,svg,tailwind,threejs,webflow,php,laravel,docker,kubernetes,java,py,django,fastapi,nodejs,angular,react,redux,vue,electron,express,nextjs,nuxtjs,ts,styledcomponents,babel,webpack,rocket,go,sass,wordpress,graphql,regex,mongodb,mysql,sqlite,postgres,unity,c,cpp,cs,qt,ps,postman,powershell,bash,linux,md" />
     </a>
   </p>
   <p align="center">
