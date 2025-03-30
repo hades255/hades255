@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;border-radius: 30%;">
+![image](https://github.com/user-attachments/assets/89c194c6-7bca-43ab-8c22-0b3acb6c4c50)<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;border-radius: 30%;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;border-radius: 30%;">
 
 <div align="center">
@@ -102,7 +102,7 @@
 ### Contact
 
 <p align="center">
-  <a href="tel:+19403603024" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>+1-940-360-3024</code></a>
+  <a href="tel:+14472897949" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>+1 447 289 7949</code></a>
   <a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>montgasam@gmail.com</code></a>
   <a href="mailto:hades.255@outlook.com" style="background-color: green; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>hades.255@outlook.com</code></a>
   <a href="https://t.me/z_sm_0001" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>@z_sm_0001</code></a>
