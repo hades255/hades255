@@ -103,10 +103,10 @@
 
 <p align="center">
   <a href="tel:+14472897949" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>+1 447 289 7949</code></a>
-  <a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>montgasam@gmail.com</code></a>
+<!--   <a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>montgasam@gmail.com</code></a> -->
   <a href="mailto:hades.255@outlook.com" style="background-color: green; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>hades.255@outlook.com</code></a>
-  <a href="https://t.me/z_sm_0001" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>@z_sm_0001</code></a>
-  <a href="skype:live:.cid.a889e1fb12a8ca6f?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>live:.cid.a889e1fb12a8ca6f</code></a>
+<!--   <a href="https://t.me/z_sm_0001" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>@z_sm_0001</code></a> -->
+<!--   <a href="skype:live:.cid.a889e1fb12a8ca6f?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>live:.cid.a889e1fb12a8ca6f</code></a> -->
 </p>
 
 <p align="center">
