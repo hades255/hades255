@@ -45,9 +45,9 @@
     <a href="https://github.com/hades255">
       <img width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
     </a>
-    <a href="https://github.com/hades255">
+    <!-- <a href="https://github.com/hades255">
       <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
-    </a>
+    </a> -->
   </p>
 
   <!-- <p align="center">
